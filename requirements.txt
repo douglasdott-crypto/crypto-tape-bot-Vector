@@ -1,0 +1,10 @@
+python-binance
+ccxt
+pandas
+numpy
+ta
+python-dotenv
+requests
+websocket-client
+pyyaml
+sqlalchemy
